@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microresolve/__init__.py
+microresolve/__main__.py
+microresolve/cli.py
+microresolve/core.py
+microresolve.egg-info/PKG-INFO
+microresolve.egg-info/SOURCES.txt
+microresolve.egg-info/dependency_links.txt
+microresolve.egg-info/entry_points.txt
+microresolve.egg-info/top_level.txt

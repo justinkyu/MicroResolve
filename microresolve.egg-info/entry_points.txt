@@ -1,0 +1,2 @@
+[console_scripts]
+microresolve = microresolve.cli:main
