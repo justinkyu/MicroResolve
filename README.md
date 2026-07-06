@@ -49,3 +49,10 @@ Educational utility for resolving hostnames and understanding name resolution.
 
 MIT License
 
+
+---
+
+## Screenshot
+
+![Demo](screenshots/demo.jpg)
+
